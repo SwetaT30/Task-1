@@ -1,7 +1,8 @@
-# Task-1
 # Data Cleaning and Preprocessing
 
-Project Name - Customer Personality Analysis
+# Project Name - Customer Personality Analysis
+
+# Overview
 
 Customer Personality Analysis involves thoroughly examining a company’s ideal customers. It enables businesses to gain deeper insights into their audience, making it easier to tailor products to meet the distinct needs, behaviors, and concerns of various customer segments.
 
